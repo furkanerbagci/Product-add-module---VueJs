@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Preview
+
+![1](https://user-images.githubusercontent.com/101906533/198841378-d1e301f9-262b-456e-a4f9-d4a33a32b2eb.JPG)
+
 ## Build Setup
 
 ``` bash
